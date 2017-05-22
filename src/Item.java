@@ -4,7 +4,7 @@ public class Item {
 	int size; 
 	int type;
 	int durability;
-	int testgit;
+
 
 	public Item(String name, int size, int type)
 	{
